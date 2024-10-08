@@ -7,8 +7,4 @@ This is a simple project to demonstrate bulb on off using javascript.
 <button onclick="changeText()">Click Me</button>
 <p id="text">ON</p>
 
-<script>
-function changeText() {
-  document.getElementById('text').innerText = 'You clicked the button!';
-}
-</script>
+>
